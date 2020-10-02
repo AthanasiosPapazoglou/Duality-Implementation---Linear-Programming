@@ -8,4 +8,4 @@
    
    Valid for squared problems ( No. of Limitations = No. of Variables )
    
-   Size of the problem as set by default as 3, you can change it within the code #define N <Size>
+   Size of the problem is set by default as 3, you can change it within the code #define N <Size>
